@@ -1,4 +1,2 @@
-#print_function
-#hi this is for test use only
-
-print("hellow python")
+Hi everyone 
+this is only for learning purpose
