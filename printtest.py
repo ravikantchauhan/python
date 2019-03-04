@@ -1,1 +1,2 @@
 print("printtestonly")
+print('printtestonly')
