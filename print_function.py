@@ -1,2 +1,1 @@
-#print_function
-print("hellow python")
+print ("hellow word")
