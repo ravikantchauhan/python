@@ -1,3 +1,3 @@
-
-for i in range(5):
-print(i)
+x = int(input("plz enter nmuber"))
+NAME = "RAVI"
+print(str(x) + NAME)
