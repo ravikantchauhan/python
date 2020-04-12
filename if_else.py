@@ -12,12 +12,14 @@
 # # An "if statement" is written by using the if keyword.
 # a: int = 330
 # b =2000
-a=int(input("Please enter first number : "))
-b=int(input("Please enter second number : "))
+a=int(input("Please enter first (a) number : "))
+b=int(input("Please enter second (b) number : "))
 
 if b > a:
     print("b is greater than a")
-if b < a:
-    print("a is greater than b")
-if a == b:
-    print("both numbers are equel")
+else :
+    print(" a is grater than a")
+# if b < a:
+#     print("a is greater than b")
+# if a == b:
+#     print("both numbers are equel")
